@@ -1,3 +1,4 @@
 notebook
 dotenv
 openai
+markdown-pdf
